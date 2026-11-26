@@ -1,0 +1,6 @@
+{
+  "name": "Dental Loop",
+  "description": "Nothing important falls through the cracks. Patient follow-up, treatment tracking, missed appointment, and routine recall management for dental clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
